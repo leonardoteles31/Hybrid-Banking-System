@@ -1,6 +1,6 @@
-package src.main.java.com.leodev.hybrid_banking_system.dto;
+package com.leodev.hybrid_banking_system.dto;
 
-import src.main.java.com.leodev.hybrid_banking_system.model.TransactionType;
+import com.leodev.hybrid_banking_system.model.TransactionType;
 import jakarta.validation.constraints.*;
 
 import java.math.BigDecimal;

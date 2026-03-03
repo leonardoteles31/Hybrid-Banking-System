@@ -1,6 +1,6 @@
-package src.main.java.com.leodev.hybrid_banking_system.repository;
+package com.leodev.hybrid_banking_system.repository;
 
-import src.main.java.com.leodev.hybrid_banking_system.model.Account;
+import com.leodev.hybrid_banking_system.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

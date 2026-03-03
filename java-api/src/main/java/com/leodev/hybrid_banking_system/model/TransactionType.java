@@ -1,4 +1,4 @@
-package src.main.java.com.leodev.hybrid_banking_system.model;
+package com.leodev.hybrid_banking_system.model;
 
 /**
  * Defines the business type of a transaction.

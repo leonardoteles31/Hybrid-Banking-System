@@ -1,4 +1,4 @@
-package src.main.java.com.leodev.hybrid_banking_system.model;
+package com.leodev.hybrid_banking_system.model;
 
 /**
  * Represents the processing state of a transaction.
